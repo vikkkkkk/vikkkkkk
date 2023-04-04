@@ -1,3 +1,1 @@
-- printf ("👋 Hi, I’m Vikkkktoria");
-- printf ("✨ 21 school student -  w14");
-- printf ("📫 my tg t.me/hsiuayes");
+
